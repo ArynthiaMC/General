@@ -1,4 +1,4 @@
-# Wiki
+# Server Introduction
 ArynthiaMC is a fully interactive and customized RPG-Based Minecraft Server.
 
 We pride ourselves on offering lots of challening tasks aswell as a balanced and friendly gameplay for anyone interested in an immersive RPG-World.
